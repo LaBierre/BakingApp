@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Baking App</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--Strings inside RecipeUtils Class-->
+    <string name="get_http">GET</string>
+    <string name="error_resp_code">"Error response code: "</string>
+    <string name="utf_8">UTF-8</string>
+    <string name="io_exeption">Problem retrieving the movie JSON results.</string>
+    <string name="io_exeption_http">Problem making the HTTP request.</string>
+    <string name="io_exeption_three">Problem parsing the movie JSON results</string>
+
+    <!--Strings inside StartActivity Class-->
+    <string name="dialog_positive_button">Restart</string>
+    <string name="alert_message">
+        There is no Internet Connectivity. Please turn the Internet on and click \'Restart\'.
+    </string>
+    <string name="alert_title">Internet Connectivity</string>
+    <string name="toast_message">
+        No Recipes found. Please change your query request.
+    </string>
+    <string name="url">
+        https://d17h27t6h515a5.cloudfront.net/topher/2017/May/59121517_baking/baking.json
+    </string>
+    <string name="step_description">
+        https://d17h27t6h515a5.cloudfront.net/topher/2017/May/59121517_baking/baking.json
+        https://d17h27t6h515a5.cloudfront.net/topher/2017/May/59121517_baking/baking.json
+        https://d17h27t6h515a5.cloudfront.net/topher/2017/May/59121517_baking/baking.json
+        https://d17h27t6h515a5.cloudfront.net/topher/2017/May/59121517_baking/baking.json
+        https://d17h27t6h515a5.cloudfront.net/topher/2017/May/59121517_baking/baking.json
+        https://d17h27t6h515a5.cloudfront.net/topher/2017/May/59121517_baking/baking.json
+        https://d17h27t6h515a5.cloudfront.net/topher/2017/May/59121517_baking/baking.json
+        https://d17h27t6h515a5.cloudfront.net/topher/2017/May/59121517_baking/baking.json
+        https://d17h27t6h515a5.cloudfront.net/topher/2017/May/59121517_baking/baking.json
+        https://d17h27t6h515a5.cloudfront.net/topher/2017/May/59121517_baking/baking.json
+        https://d17h27t6h515a5.cloudfront.net/topher/2017/May/59121517_baking/baking.json
+        https://d17h27t6h515a5.cloudfront.net/topher/2017/May/59121517_baking/baking.json
+        https://d17h27t6h515a5.cloudfront.net/topher/2017/May/59121517_baking/baking.json
+        https://d17h27t6h515a5.cloudfront.net/topher/2017/May/59121517_baking/baking.json
+        https://d17h27t6h515a5.cloudfront.net/topher/2017/May/59121517_baking/baking.json
+        https://d17h27t6h515a5.cloudfront.net/topher/2017/May/59121517_baking/baking.json
+        https://d17h27t6h515a5.cloudfront.net/topher/2017/May/59121517_baking/baking.json
+        https://d17h27t6h515a5.cloudfront.net/topher/2017/May/59121517_baking/baking.json
+        https://d17h27t6h515a5.cloudfront.net/topher/2017/May/59121517_baking/baking.json
+        https://d17h27t6h515a5.cloudfront.net/topher/2017/May/59121517_baking/baking.json
+        https://d17h27t6h515a5.cloudfront.net/topher/2017/May/59121517_baking/baking.json
+        https://d17h27t6h515a5.cloudfront.net/topher/2017/May/59121517_baking/baking.json
+    </string>
+</resources>
